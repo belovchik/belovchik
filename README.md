@@ -26,7 +26,7 @@
 ## Социальные сети🌎
 [![Header](https://img.shields.io/badge/Instagram-090901?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/ill.belove/)
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/illbelove)
-[![Header](https://img.shields.io/badge/Vk-090909?style=for-the-badge&logo=vk&logoColor=31a5db)](https://vk.com/mrlooonely)
+[![Header](https://img.shields.io/badge/Vk-090909?style=for-the-badge&logo=vk&logoColor=31a5db)](https://vk.com/mrloonely)
 ## Тестовая документация📁
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
