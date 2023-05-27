@@ -1,19 +1,23 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="hello in different languages of the world;)" /></p>
-
-# Приветствую! Рад тебя видеть! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> :blush:
-
+# Приветствую! Рад тебя видеть! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> &#128527;
 <img src="https://raw.githubusercontent.com/belovchik/images/0f4056f503ee05f56a991e010e873a933776a735/An71ZBKuwOU.jpg" alt="This should be my Green Peace style photo, you will appreciate!"> 
 Я Илья, но все называют меня Белый. Я люблю путешествовать и видеть мир. Однажды осознав, что все мои друзья айтишники, а я вообще нет, решил открыть для себя и мир IT. Долго не думая остановил свой выбор на обеспечении качества, в народе - QA. 
 
-## Latest Youtube Videos
+## Чуть больше обо мне :man:
 
-<!-- YOUTUBE:START -->
-- [TEST IT ЭТО ЗАМЕНА TESTRAIL? Обзор функций](https://www.youtube.com/watch?v=TInzuFHtFmM)
-- [Вопросы с реальных собеседований для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=cEq5OIHelCo)
-- [Вопросы на собеседовании тестировщиков &lpar;Junior QA&rpar; от менеджеров](https://www.youtube.com/watch?v=Ew9hUAZkBr8)
-- [Разбор резюме тестировщиков, QA Engineer](https://www.youtube.com/watch?v=kFk5wXAaoCw)
-- [Как оформляют в штат в айти? #войтивайти](https://www.youtube.com/watch?v=Y2Xw0F4xeiA)
-<!-- YOUTUBE:END -->
+&#127748; Активный отдых и путешествия
+
+&#128170; Здоровый образ жизни
+
+&#128587; Образ мышления новичка (открыт к обучению)
+
+:100: Оптимист
+
+&#128591; За мир во всем мире
+
+
+>*Дорогу осилит идущий*
+
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
