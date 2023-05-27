@@ -1,9 +1,9 @@
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="hello in different languages of the world;)" /></p>git commit
+<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="hello in different languages of the world;)" /></p>
 
 # Приветствую! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Рад тебя видеть!:blush:
 
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+<img src="https://ibb.co/55QSDfp" alt="This should be my Green Peace style photo, you will appreciate!"> 
+Я Илья, но все называют меня Белый. Я люблю путешествовать и видеть мир. Однажды осознав, что все мои друзья айтишники, а я вообще нет, решил открыть для себя и мир IT. Долго не думая остановил свой выбор на обеспечении качества, в народе - QA. 
 
 ## Latest Youtube Videos
 
