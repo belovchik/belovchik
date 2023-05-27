@@ -1,22 +1,24 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="hello in different languages of the world;)" /></p>
-# Приветствую! Рад тебя видеть! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> &#128527;
+
+# Приветствую! Рад тебя видеть! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+
 <img src="https://raw.githubusercontent.com/belovchik/images/0f4056f503ee05f56a991e010e873a933776a735/An71ZBKuwOU.jpg" alt="This should be my Green Peace style photo, you will appreciate!"> 
 Я Илья, но все называют меня Белый. Я люблю путешествовать и видеть мир. Однажды осознав, что все мои друзья айтишники, а я вообще нет, решил открыть для себя и мир IT. Долго не думая остановил свой выбор на обеспечении качества, в народе - QA. 
 
-## Чуть больше обо мне :man:
+## Чуть больше обо мне &#129489;
 
 &#127748; Активный отдых и путешествия
 
 &#128170; Здоровый образ жизни
 
-&#128587; Образ мышления новичка (открыт к обучению)
+&#128104; Образ мышления новичка (открыт к обучению)
 
-:100: Оптимист
+&#128175; Оптимист
 
 &#128591; За мир во всем мире
 
 
->*Дорогу осилит идущий*
+>*Дорогу осилит идущий...*
 
 
 ### Language and Tools
