@@ -2,7 +2,7 @@
 
 # Приветствую! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Рад тебя видеть!:blush:
 
-<img src="https://ibb.co/55QSDfp" alt="This should be my Green Peace style photo, you will appreciate!"> 
+<img src="https://drive.google.com/file/d/1XRXLcRJiyXsbe1SK3AR6j_9J5lq_Lb0t/view?usp=share_link" alt="This should be my Green Peace style photo, you will appreciate!"> 
 Я Илья, но все называют меня Белый. Я люблю путешествовать и видеть мир. Однажды осознав, что все мои друзья айтишники, а я вообще нет, решил открыть для себя и мир IT. Долго не думая остановил свой выбор на обеспечении качества, в народе - QA. 
 
 ## Latest Youtube Videos
