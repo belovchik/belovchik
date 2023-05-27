@@ -1,4 +1,4 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
+<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="hello in different languages of the world;)" /></p>git commit
 ## I'm a QA Engineer and Tutor. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
