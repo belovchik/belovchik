@@ -72,7 +72,7 @@
 - [<b>Postman Collections</b>](https://github.com/belovchik/postman-collections)
 - [<b>Sniffers</b>](https://github.com/belovchik/sniffers)
 - [<b>Test-Plans</b>](https://github.com/belovchik/test-plans)
-
+- [<b>Test Design</b>](https://github.com/belovchik/test-design)
 ---
 
  <!-- ### 💻 Пройденные курсы:
