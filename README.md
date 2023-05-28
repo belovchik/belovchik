@@ -1,4 +1,4 @@
-# Приветствую! Рад тебя видеть! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Приветствую! Рад видеть тебя! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="hello in different languages of the world;)" /></p>
 <img src="https://raw.githubusercontent.com/belovchik/images/0f4056f503ee05f56a991e010e873a933776a735/An71ZBKuwOU.jpg" alt="This should be my Green Peace style photo, you will appreciate!"> 
 Я Илья, но все называют меня Белый. Я люблю путешествовать и видеть мир. Однажды осознав, что все мои друзья айтишники, а я вообще нет, решил открыть для себя и мир IT. Долго не думая остановил свой выбор на обеспечении качества, в народе - QA. 
