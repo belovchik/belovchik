@@ -63,7 +63,7 @@
   
 </div>
 
-## Мои тестовые артефакты
+## Мои тестовые артефакты📁
 
 - [<b>Test-Cases</b>](https://github.com/belovchik/test-cases)
 - [<b>Checklists</b>](https://github.com/belovchik/checklists)
