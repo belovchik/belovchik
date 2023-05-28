@@ -1,7 +1,5 @@
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="hello in different languages of the world;)" /></p>
-
 # Приветствую! Рад тебя видеть! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
+<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="hello in different languages of the world;)" /></p>
 <img src="https://raw.githubusercontent.com/belovchik/images/0f4056f503ee05f56a991e010e873a933776a735/An71ZBKuwOU.jpg" alt="This should be my Green Peace style photo, you will appreciate!"> 
 Я Илья, но все называют меня Белый. Я люблю путешествовать и видеть мир. Однажды осознав, что все мои друзья айтишники, а я вообще нет, решил открыть для себя и мир IT. Долго не думая остановил свой выбор на обеспечении качества, в народе - QA. 
 
@@ -64,3 +62,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
+
+## Мои тестовые артефакты
+
+- [<b>Test-Cases</b>](https://github.com/belovchik/test-cases)
+- [<b>Checklists</b>](https://github.com/belovchik/checklists)
+- [<b>Test Reports</b>](https://github.com/belovchik/test-reports)
+- [<b>SQL&noSQL Queries</b>](https://github.com/belovchik/SQL-queries)
+- [<b>Postman Collections</b>](https://github.com/belovchik/postman-collections)
+- [<b>Sniffers</b>](https://github.com/belovchik/sniffers)
+- [<b>Test-Plans</b>](https://github.com/belovchik/test-plans)
+
+---
+
+ <!-- ### 💻 Пройденные курсы:
+
+| Курсы                                                           | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+
+--- -->
