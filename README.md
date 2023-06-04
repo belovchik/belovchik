@@ -1,30 +1,8 @@
 # Приветствую! Рад видеть тебя! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="hello in different languages of the world;)" /></p>
 <img src="https://raw.githubusercontent.com/belovchik/images/0f4056f503ee05f56a991e010e873a933776a735/An71ZBKuwOU.jpg" alt="This should be my Green Peace style photo, you will appreciate!"> 
-Я Илья, но все называют меня Белый. Я люблю путешествовать и видеть мир. Однажды осознав, что все мои друзья айтишники, а я вообще нет, решил открыть для себя и мир IT. Долго не думая остановил свой выбор на обеспечении качества, в народе - QA. 
+Я Илья, но все называют меня Белый. Я люблю путешествовать и видеть мир. Но однажды я осознал что хочу не только видеть этот мир, но и привносить в него что-то новое, влиять на него и заниматься интересным делом. Так я решил открыть для себя и мир IT. Долго не думая остановил свой выбор на обеспечении качества, в народе - QA. 
 
-## Чуть больше обо мне &#129489;
-
-&#127748; <b>Активный отдых и путешествия</b>
-
-&#128170; <b>Здоровый образ жизни</b>
-
-&#128583; <b>Образ мышления новичка (открыт к обучению)</b>
-
-&#128175; <b>Оптимист</b>
-
-&#128591; <b>За мир во всем мире</b>
-
-
->*Дорогу осилит идущий...*
-
-
-## Как связаться со мной📫
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lookatbelove@gmail.com)
-## Социальные сети🌎
-[![Header](https://img.shields.io/badge/Instagram-090901?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/ill.belove/)
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/illbelove)
-[![Header](https://img.shields.io/badge/Vk-090909?style=for-the-badge&logo=vk&logoColor=31a5db)](https://vk.com/mrloonely)
 ## Тестовая документация📁
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -74,6 +52,30 @@
 - [<b>Test-Plans</b>](https://github.com/belovchik/test-plans)
 - [<b>Test Design</b>](https://github.com/belovchik/test-design)
 ---
+
+## Чуть больше обо мне &#129489;
+
+&#127748; <b>Активный отдых и путешествия</b>
+
+&#128170; <b>Здоровый образ жизни</b>
+
+&#128583; <b>Образ мышления новичка (открыт к обучению)</b>
+
+&#128175; <b>Оптимист</b>
+
+&#128591; <b>За мир во всем мире</b>
+
+
+>*Дорогу осилит идущий...*
+
+## Резюме📄 
+[<b>CV</b>](https://github.com/belovchik/CV/blob/master/%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%D0%98%D0%BB%D1%8C%D1%8F%D0%91%D0%B5%D0%BB%D0%BE%D0%B2.pdf)
+## Как связаться со мной📫
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lookatbelove@gmail.com)
+## Социальные сети🌎
+[![Header](https://img.shields.io/badge/Instagram-090901?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/ill.belove/)
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/illbelove)
+[![Header](https://img.shields.io/badge/Vk-090909?style=for-the-badge&logo=vk&logoColor=31a5db)](https://vk.com/mrloonely)
 
  <!-- ### 💻 Пройденные курсы:
 
